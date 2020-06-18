@@ -1,3 +1,9 @@
+"""
+    Code source here: https://stackoverflow.com/questions/40160808/python-turtle-color-change
+    Trying to see how this person uses turtle.stamp to change the color of their turtles
+    I cannot seem to make sense out of it, or at least be able to use some sort of form out of this ;-;
+"""
+
 from turtle import Turtle, Screen
 from random import randrange, choice
 from collections import namedtuple

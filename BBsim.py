@@ -1,3 +1,8 @@
+"""
+    Learning the basics of python's turtle module
+    Simple bouncing ball simulation
+"""
+
 import turtle
 import random
 

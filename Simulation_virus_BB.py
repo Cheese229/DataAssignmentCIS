@@ -1,3 +1,15 @@
+"""
+    Bigger scale simulation of a virus spread in a city.
+    This would have been the better opt for the project, as it uses geospatial visualisation (which is not in this code)
+    and data gathered from a a ride share, a specific city, their population, and their public transport data.
+
+    I still don't understand how geospatial visualisation works (I think I will look more into it in the holidays)
+    The simulation uses mathematical equations on how a virus would spread and includes its recovery rates.
+
+    Technically this code works (I think)...
+    It is just missing it's data and its visuals
+"""
+
 import numpy as np
 from collections import namedtuple
 

@@ -1,3 +1,10 @@
+"""
+    Figuring out how to animate a scatter plot
+    At the end, to create moving points in a scatter is harder than making everything change in terms of 'i'
+    The animation can be found in the folder "chartAnim"
+    The gif was created using 'ImageMagick'
+"""
+
 import matplotlib.pyplot as plt 
 import seaborn as sns 
 

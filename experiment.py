@@ -9,3 +9,4 @@ n_samples = 10
 n_structure = 50 + 50 * np.random.rand(n_samples, 2), None
 X, y = n_structure
 
+# Creating data points in a scatter plot makes it hard to move the points randomly like a simulation
